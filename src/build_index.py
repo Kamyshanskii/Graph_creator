@@ -1,5 +1,3 @@
-# src/build_index.py
-
 import os
 import re
 import pickle
